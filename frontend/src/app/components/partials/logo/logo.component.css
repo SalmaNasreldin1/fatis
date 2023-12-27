@@ -1,0 +1,19 @@
+.logo img {
+    height: 60px;
+    bottom: 10px;
+}
+
+.logoname {
+   
+    color: #f05374;
+    font-size: 33px;
+    font-family: 'Pacifico', sans-serif;
+    margin-right: 310px;
+}
+
+.logoo {
+    position: fixed;
+    top:  4px;
+    left: 4px;
+    display: flex;
+}

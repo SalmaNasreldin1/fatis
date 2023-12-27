@@ -1,0 +1,52 @@
+#aboutt {
+    color: #27374D;
+    font-size: 60px;
+    font-family: 'Cinzel', sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#aboutpage {
+    background-color: #F4E7CF;
+}
+
+
+.product-section .row {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.joke {
+    color: #1d1f32;
+    font-size: 22px;
+    width: 70%;
+    margin-left: 220px;
+    text-align: center;
+    line-height: 35px;
+}
+
+.product-section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.product-section h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    font-family: "Cinzel", sans-serif;
+    text-align: center;
+    color: #488686;
+}
+#home {
+    margin: 0;
+    align-self: flex-start;
+    min-height: 700px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    width: 100%;
+    opacity: 0.9;
+}

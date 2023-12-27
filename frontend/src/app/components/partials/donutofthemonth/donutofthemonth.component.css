@@ -1,0 +1,101 @@
+.cakemonth {
+    min-height: 75px;
+    height: fit-content;
+    width: 100%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    justify-content: flex-start;
+    background-color: #FFC5C5;
+}
+
+.text-blk {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    line-height: 25px;
+}
+.cakemonth.bigContainer {
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-blk.cakehead {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 34px;
+    color: #FFEBD8;
+    padding-top: -80px;
+    padding-right: 10px;
+    padding-bottom: 60px;
+    padding-left: 10px;
+    margin-top: -30px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: -330px;
+    font-family: 'Cinzel', sans-serif;
+    top: 20%;
+}
+
+.allText {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    width: 40%;
+    margin: 0 0 0 0;
+}
+
+.poem {
+    font-size: 30px;
+    line-height: 2;
+    color: #27374D;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-left: -290px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    font-family: 'Cedarville Cursive', sans-serif;
+}
+
+.cakemonth.Container {
+    margin-top: 80px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+    max-width: 1320px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.allText.aboveText {
+    margin: 0 0 0 40px;
+}

@@ -1,0 +1,30 @@
+section .Home {
+    padding: 70px;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.slogan {
+    color: #D27685;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+
+#home {
+    margin: 0;
+    align-self: flex-start;
+    min-height: 700px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    width: 100%;
+    opacity: 0.9;
+}

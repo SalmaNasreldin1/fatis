@@ -1,0 +1,43 @@
+.categorybuttons {
+    padding: 50px 0;
+    top: 50%;
+    left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F4E7CF;
+}
+
+.ourcakes h1 {
+    font-size: 60px;
+    font-family: "Cinzel", sans-serif;
+    text-align: center;
+    color: #E19898;
+}
+
+.btn-group {
+    text-align: center;
+}
+
+.btn-group button {
+    background-color: #73A9AD;
+    color: white;
+    border: none;
+    max-width: 210px;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 12px 20px;
+    text-align: center;
+    margin: 2px;
+}
+
+.btn-group button a {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.btn-group button:hover {
+    background-color: #1d1f32;
+    transform: scale(1.1);
+}
